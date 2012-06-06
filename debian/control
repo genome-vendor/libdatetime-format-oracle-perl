@@ -1,7 +1,7 @@
 Source: libdatetime-format-oracle-perl
 Section: perl
 Priority: optional
-Build-Depends: debhelper (>= 8)
+Build-Depends: debhelper (>= 7)
 Build-Depends-Indep: perl,
  libconvert-nls-date-format-perl (>= 0.03),
  libdatetime-format-builder-perl,

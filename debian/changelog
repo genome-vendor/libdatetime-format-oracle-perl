@@ -1,3 +1,10 @@
+libdatetime-format-oracle-perl (0.06-1~lucid1) unstable; urgency=low
+
+  * Backport from precise.
+  * Lower compat version for lucid.
+
+ -- Nathan Nutter <nnutter@genome.wustl.edu>  Fri, 01 Jun 2012 16:30:35 -0500
+
 libdatetime-format-oracle-perl (0.06-1) unstable; urgency=low
 
   [ Ansgar Burchardt ]
